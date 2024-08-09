@@ -35,7 +35,7 @@
  #img3{
 
     position: relative;
-    left: 750px;
+    left: 575px;
     width: auto;
  
  }
@@ -63,4 +63,9 @@
 #informace{
     text-align: center;
     font-size: 30px;
+}
+#maly{
+    font-size: smaller;
+    font-weight: lighter;
+    text-align: center;
 }
