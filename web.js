@@ -1,5 +1,7 @@
-document.getElementById('btn').addEventListener('onmouseover', function(){
-    const Hlaseni = document.createElement('p');
-    Hlaseni.innerText = 'ERROR!';
-    document.body.appendChild(Hlaseni);
-});
+//document.getElementsByClassName("btn").addEventListener('click', function(){
+    //console.log("click");
+    //const Hlaseni = document.createElement('p');
+    //Hlaseni.innerText = 'ERROR!';
+    //document.body.appendChild(Hlaseni);
+//});
+
