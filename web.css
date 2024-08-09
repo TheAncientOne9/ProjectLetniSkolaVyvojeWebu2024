@@ -13,3 +13,13 @@
 #center{
    margin-left: 45%; 
 }
+#topbar{
+    background-color: green;
+    height: 40px;
+    width: 100%;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 40px;
+}
