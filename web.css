@@ -18,6 +18,13 @@
     font-size: 20px;
     margin-left: 30px;
 }
+#img0{
+
+    position: relative;
+    left: 200px;
+    width: auto;
+
+}
 #img1{
 
     position: relative;
